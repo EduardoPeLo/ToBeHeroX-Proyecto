@@ -1,0 +1,6 @@
+# Partidas, finales desbloqueados y ajustes de cada jugador
+saves/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
